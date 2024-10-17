@@ -8,7 +8,7 @@ https://github.com/Muhammad-Zeerak-Khan/Automatic-License-Plate-Recognition-usin
 
 ## Data
 
-The video I used in this tutorial can be downloaded [here](https://drive.google.com/file/d/1JbwLyqpFCXmftaJY1oap8Sa6KfjoWJta/view?usp=sharing).
+The video I used can be downloaded [here](https://drive.google.com/file/d/1JbwLyqpFCXmftaJY1oap8Sa6KfjoWJta/view?usp=sharing).
 
 ## Model
 
